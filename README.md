@@ -5,6 +5,11 @@
 <!-- readme: collaborators,contributors -start -->
 <!-- readme: collaborators,contributors -end -->
 
+## 第零章节 *如何编写文档*
+- [什么是markdown]()
+- [我要如何贡献文章]()
+- [*我要*~~酷炫~~**更多**`样式!`]()
+
 ## 第一章节 *准备工作*
 - [使用vscode编辑器](./chapter1/1.1-install-vscode.md)
 - [安装lua开发插件](./chapter1/1.2-install-lua-extension.md)
