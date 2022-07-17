@@ -1,4 +1,4 @@
-# pz-modding-guide
+# 僵尸毁灭工程模组开发手册
 [📝加入编辑](https://github.com/iPlanC/pz-modding-guide)
 [🤔提交问题](https://github.com/iPlanC/pz-modding-guide/issue)
 [🔗联系我们]()
