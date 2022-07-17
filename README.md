@@ -4,6 +4,8 @@
 [🔗联系我们]()
 
 ## 贡献者
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 ## 第一章节 *准备工作*
 - [使用vscode编辑器](./chapter1/1.1-install-vscode.md)
