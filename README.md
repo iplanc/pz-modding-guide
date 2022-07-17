@@ -6,7 +6,7 @@
 <!-- readme: collaborators,contributors -end -->
 
 ## 第零章节 *如何编写文档*
-- [什么是markdown]()
+- [什么是markdown](./chapter0/0.1-what-is-markdown.md)
 - [我要如何贡献文章]()
 - [*我要*~~酷炫~~**更多**`样式!`]()
 
