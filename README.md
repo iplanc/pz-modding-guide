@@ -15,3 +15,5 @@
 - [安装lua开发插件](./chapter1/1.2-install-lua-extension.md)
 - [安装pzmod开发插件](./chapter1/1.3-install-pzmod-extension.md)
 - [打开调试模式](./chapter1/1.4-turn-on-debug-mode.md)
+
+### special thanks
