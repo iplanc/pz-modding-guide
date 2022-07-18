@@ -7,7 +7,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/iPlanC">
-            <img src="https://avatars.githubusercontent.com/u/32409143?v=4" width="100;" alt="iPlanC"/>
+            <img src="https://avatars.githubusercontent.com/u/32409143?v=4" width="50;" alt="iPlanC"/>
             <br />
             <sub><b>PlanC</b></sub>
         </a>
