@@ -1,5 +1,6 @@
 # 监听 master 分支
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
