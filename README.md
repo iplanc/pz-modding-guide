@@ -1,12 +1,12 @@
 # 僵尸毁灭工程模组开发手册
-### [📝加入编辑](https://github.com/iPlanC/pz-modding-guide) [🤔提交问题](https://github.com/iPlanC/pz-modding-guide/issue) [🔎僵毁百科](https://github.com/iPlanC/pz-modding-guide/wiki) [🔗联系我们]()
+### [📝加入编辑](https://gitee.com/iPlanC/pz-modding-guide) [🤔提交问题](https://gitee.com/iPlanC/pz-modding-guide/issue) [🔎僵毁百科](https://gitee.com/iPlanC/pz-modding-guide/wiki) [✉️联系我们]()
 
 ## 贡献者
 <!-- readme: collaborators,contributors -start -->
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/iPlanC">
+        <a href="https://gitee.com/iPlanC">
             <img src="https://avatars.githubusercontent.com/u/32409143?v=4" width="50;" alt="iPlanC"/>
             <br />
             <sub><b>PlanC</b></sub>
@@ -19,6 +19,7 @@
 - [什么是markdown](./chapter0/0.1-what-is-markdown.md)
 - [我要如何贡献文章]()
 - [*我要*~~酷炫~~**更多**`样式!`]()
+- [嘿!我完成了一份文档...然后呢?]()
 
 ## 第一章节 *准备工作*
 - [使用vscode编辑器](./chapter1/1.1-install-vscode.md)
