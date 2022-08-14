@@ -1,5 +1,5 @@
 # 僵尸毁灭工程模组开发手册
-### [📝加入编辑](https://gitee.com/iPlanC/pz-modding-guide) [🤔提交问题](https://gitee.com/iPlanC/pz-modding-guide/issue) [🔎僵毁百科](https://gitee.com/iPlanC/pz-modding-guide/wiki) [✉️联系我们]()
+### [📝加入编辑](https://gitee.com/PlanC14/pz-modding-guide/pulls) [🤔提交问题](https://gitee.com/PlanC14/pz-modding-guide/issue) [🔎僵毁百科](https://gitee.com/PlanC14/pz-modding-guide/wiki) [✉️联系我们]()
 
 ## 贡献者
 <!-- readme: collaborators,contributors -start -->
